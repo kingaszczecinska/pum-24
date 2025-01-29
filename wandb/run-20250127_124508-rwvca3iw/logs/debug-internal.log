@@ -1,0 +1,28 @@
+{"time":"2025-01-27T12:45:10.9388818+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-27T12:45:10.9388818+01:00","level":"INFO","msg":"created symlink","path":"K:\\Desktop\\PUM\\pum-24\\KSz\\wandb\\run-20250127_124508-rwvca3iw\\logs\\debug-core.log"}
+{"time":"2025-01-27T12:45:11.0863758+01:00","level":"INFO","msg":"created new stream","id":"rwvca3iw"}
+{"time":"2025-01-27T12:45:11.0863758+01:00","level":"INFO","msg":"stream: started","id":"rwvca3iw"}
+{"time":"2025-01-27T12:45:11.0863758+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"rwvca3iw"}
+{"time":"2025-01-27T12:45:11.0863758+01:00","level":"INFO","msg":"sender: started","stream_id":"rwvca3iw"}
+{"time":"2025-01-27T12:45:11.0863758+01:00","level":"INFO","msg":"handler: started","stream_id":"rwvca3iw"}
+{"time":"2025-01-27T12:45:11.4200614+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:46:11.998179+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T12:46:13.0468747+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 10.210.0.72:62950->35.186.228.49:443: wsarecv: An established connection was aborted by the software in your host machine."}
+{"time":"2025-01-27T14:49:14.9537301+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": net/http: request canceled (Client.Timeout exceeded while awaiting headers)"}
+{"time":"2025-01-27T14:49:24.8242254+01:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream"}
+{"time":"2025-01-27T14:50:39.5765349+01:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream"}
+{"time":"2025-01-27T15:00:31.4410101+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:00:33.7784225+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:00:38.1237078+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:00:47.6162654+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:02.0916335+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.1.112:63275->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-01-27T15:01:04.1054839+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:05.3553935+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:08.9359257+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:18.7398198+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:34.9132764+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:01:41.7481766+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:02:11.5771825+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:02:41.7711093+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:03:11.6045373+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": dial tcp: lookup api.wandb.ai: no such host"}
+{"time":"2025-01-27T15:03:41.7780334+01:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/rwvca3iw/file_stream\": dial tcp: lookup api.wandb.ai: no such host"}

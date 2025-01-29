@@ -1,0 +1,17 @@
+{"time":"2025-01-27T12:33:15.9794279+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-27T12:33:15.9794279+01:00","level":"INFO","msg":"created symlink","path":"K:\\Desktop\\PUM\\pum-24\\KSz\\wandb\\run-20250127_123311-w12s18pc\\logs\\debug-core.log"}
+{"time":"2025-01-27T12:33:16.1005378+01:00","level":"INFO","msg":"created new stream","id":"w12s18pc"}
+{"time":"2025-01-27T12:33:16.1005378+01:00","level":"INFO","msg":"stream: started","id":"w12s18pc"}
+{"time":"2025-01-27T12:33:16.1005378+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:33:16.1005378+01:00","level":"INFO","msg":"sender: started","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:33:16.1010484+01:00","level":"INFO","msg":"handler: started","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:33:16.7471198+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:34:39.6076262+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:34:39.6102782+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:34:40.6155378+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.5878079}],"total_operations":1}}
+{"time":"2025-01-27T12:34:42.8766034+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:34:44.6936844+01:00","level":"INFO","msg":"stream: closing","id":"w12s18pc"}
+{"time":"2025-01-27T12:34:44.6936844+01:00","level":"INFO","msg":"handler: closed","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:34:44.6936844+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:34:44.6941919+01:00","level":"INFO","msg":"sender: closed","stream_id":"w12s18pc"}
+{"time":"2025-01-27T12:34:44.6941919+01:00","level":"INFO","msg":"stream: closed","id":"w12s18pc"}

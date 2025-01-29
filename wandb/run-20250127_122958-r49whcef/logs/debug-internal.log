@@ -1,0 +1,34 @@
+{"time":"2025-01-27T12:29:58.1034676+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-27T12:29:58.1035935+01:00","level":"INFO","msg":"created symlink","path":"K:\\Desktop\\PUM\\pum-24\\KSz\\wandb\\run-20250127_122958-r49whcef\\logs\\debug-core.log"}
+{"time":"2025-01-27T12:29:58.6514624+01:00","level":"INFO","msg":"created new stream","id":"r49whcef"}
+{"time":"2025-01-27T12:29:58.651987+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:29:58.651987+01:00","level":"INFO","msg":"sender: started","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:29:58.651987+01:00","level":"INFO","msg":"stream: started","id":"r49whcef"}
+{"time":"2025-01-27T12:29:58.651987+01:00","level":"INFO","msg":"handler: started","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:29:59.1097152+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-27T12:30:03.6255055+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:30:11.8527049+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:30:11.8590628+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:30:28.77256+01:00","level":"INFO","msg":"api: retrying HTTP error","status":500,"url":"https://api.wandb.ai/files/kingasz-jagiellonian-university/mnist-classifier/r49whcef/file_stream"}
+{"time":"2025-01-27T12:30:31.480352+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:30:31.9761316+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:30:52.235868+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:30:52.3367907+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:31:00.8992147+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:31:00.9779309+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:31:14.4494811+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:31:14.4523041+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:31:17.1306258+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:31:17.2123262+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:33:08.2053431+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:33:08.207071+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-27T12:33:11.3656364+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-27T12:33:11.3998711+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-27T12:33:11.4019427+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-27T12:33:12.414875+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"saving job artifact","runtime_seconds":0.6818543}],"total_operations":1}}
+{"time":"2025-01-27T12:33:14.6861082+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-27T12:33:15.9739264+01:00","level":"INFO","msg":"stream: closing","id":"r49whcef"}
+{"time":"2025-01-27T12:33:15.9739264+01:00","level":"INFO","msg":"handler: closed","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:33:15.9739264+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:33:15.9739264+01:00","level":"INFO","msg":"sender: closed","stream_id":"r49whcef"}
+{"time":"2025-01-27T12:33:15.9739264+01:00","level":"INFO","msg":"stream: closed","id":"r49whcef"}

@@ -1,0 +1,31 @@
+{
+  "os": "Windows-10-10.0.22631-SP0",
+  "python": "3.9.20",
+  "startedAt": "2025-01-27T11:45:10.938881Z",
+  "program": "lab6.ipynb",
+  "git": {
+    "remote": "https://github.com/kingaszczecinska/pum-24.git",
+    "commit": "b36c17a0afc6b246a236865d1e96c77e4584956a"
+  },
+  "email": "kingasz_nysa@interia.pl",
+  "root": "K:\\Desktop\\PUM\\pum-24\\KSz",
+  "host": "ASUS_Kinga",
+  "username": "kinga",
+  "executable": "K:\\Gry\\anaconda\\envs\\pum24\\python.exe",
+  "codePathLocal": "lab6.ipynb",
+  "cpu_count": 12,
+  "cpu_count_logical": 16,
+  "disk": {
+    "/": {
+      "total": "482343907328",
+      "used": "141923078144"
+    }
+  },
+  "memory": {
+    "total": "16780771328"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 16
+  }
+}

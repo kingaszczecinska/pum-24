@@ -1,0 +1,43 @@
+Epoch: 0
+Train loss: 1.5895637030601502
+Validation loss: 1.521342494392395
+Epoch: 1
+Train loss: 1.5151518587112427
+Validation loss: 1.5033317192077638
+Epoch: 2
+Train loss: 1.503082183265686
+Validation loss: 1.4979234630584717
+Epoch: 3
+Train loss: 1.4969622621854146
+Validation loss: 1.4971303491592407
+Epoch: 4
+Train loss: 1.4916661415417989
+Validation loss: 1.4978110719680786
+Epoch: 5
+Train loss: 1.4909092624664306
+Validation loss: 1.4953779731750487
+Epoch: 6
+Train loss: 1.4882009740511577
+Validation loss: 1.4924735137939453
+Epoch: 7
+Train loss: 1.486271510219574
+Validation loss: 1.4971375619888305
+Epoch: 8
+Train loss: 1.4855358119010926
+Validation loss: 1.4906130655288696
+Epoch: 9
+Train loss: 1.485067785390218
+Validation loss: 1.487686209487915
+Epoch: 10
+Train loss: 1.4838305391311646
+Validation loss: 1.4879169128417968
+Epoch: 11
+Train loss: 1.4836070056915283
+Validation loss: 1.4904812147140503
+Epoch: 12
+Train loss: 1.4822756112416586
+Validation loss: 1.4897302452087402
+Epoch: 13
+Train loss: 1.4829733205159505
+Validation loss: 1.4900035884857177
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.

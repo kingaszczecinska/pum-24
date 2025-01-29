@@ -1,0 +1,28 @@
+{"time":"2025-01-29T11:52:33.7517066+01:00","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2025-01-29T11:52:33.7522176+01:00","level":"INFO","msg":"created symlink","path":"K:\\Desktop\\PUM\\pum-24\\KSz\\wandb\\run-20250129_115233-ieg2ng91\\logs\\debug-core.log"}
+{"time":"2025-01-29T11:52:34.4718208+01:00","level":"INFO","msg":"created new stream","id":"ieg2ng91"}
+{"time":"2025-01-29T11:52:34.4723322+01:00","level":"INFO","msg":"sender: started","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:52:34.4724658+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:52:34.4724658+01:00","level":"INFO","msg":"stream: started","id":"ieg2ng91"}
+{"time":"2025-01-29T11:52:34.4724658+01:00","level":"INFO","msg":"handler: started","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:52:35.1165348+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-01-29T11:53:23.0880752+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:53:25.8786833+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:53:25.8838442+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:53:29.8200545+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:53:29.8260728+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:53:58.2658894+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:53:58.2721405+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:54:04.0496096+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:54:04.0535355+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:54:16.9681755+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:54:18.164023+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-01-29T11:55:53.5417607+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-01-29T11:55:57.9289823+01:00","level":"INFO","msg":"stream: closing","id":"ieg2ng91"}
+{"time":"2025-01-29T11:55:57.9289823+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-01-29T11:55:57.933238+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-01-29T11:55:59.3955497+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-01-29T11:55:59.9098344+01:00","level":"INFO","msg":"handler: closed","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:55:59.9098344+01:00","level":"INFO","msg":"sender: closed","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:55:59.9098344+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ieg2ng91"}
+{"time":"2025-01-29T11:55:59.9104596+01:00","level":"INFO","msg":"stream: closed","id":"ieg2ng91"}

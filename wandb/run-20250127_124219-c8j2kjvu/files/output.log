@@ -1,0 +1,16 @@
+Epoch: 0
+Train loss: 1.5631080786705016
+Validation loss: 1.5218429800033568
+Epoch: 1
+Train loss: 1.5122118849436441
+Validation loss: 1.5025592851638794
+Epoch: 2
+Train loss: 1.50153246606191
+Validation loss: 1.5018027475357056
+Epoch: 3
+Train loss: 1.4961581907908121
+Validation loss: 1.4972934511184692
+Epoch: 4
+Train loss: 1.4923606838226318
+Validation loss: 1.50023095703125
+wandb: WARNING Calling wandb.login() after wandb.init() has no effect.
